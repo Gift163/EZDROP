@@ -1,0 +1,5 @@
+aiogram==2.25.2
+requests
+aiohttp==3.8.6
+python-dotenv
+pillow
