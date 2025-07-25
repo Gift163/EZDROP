@@ -1,3 +1,8 @@
 aiogram==2.25.2
-requests
 aiohttp
+requests
+pillow
+pyyaml
+pytonconnect
+ton
+python-dotenv
